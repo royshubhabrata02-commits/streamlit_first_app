@@ -28,7 +28,7 @@ if st.button("Greet me"): st.write(f"Hello, {name}!")
 # Choose a color
 
 
-color =st.selectbox("Pick a color", ["Red", "Green","Blue","Purple"])
+color =st.selectbox("Pick a color", ["Red", "Green","Blue","Purple","Black"])
 
 
 st.write(f"You chose: {color}")
